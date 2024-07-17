@@ -21,7 +21,9 @@ function Hero() {
           <img src="../../public/flipkart.png" alt="" />
         </div>
       </div>
-      <div className="image"></div>
+      <div className="image">
+        <img src="../../public/hero-image.png" alt="" />
+      </div>
     </div>
   );
 }
