@@ -5,7 +5,7 @@ function Hero() {
     <div className="flex mx-auto max-w-[1280px] items-center h-[90vh]">
       <div className="text">
         <h1 className="font-bold text-[8vw] leading-none tracking-tight">YOUR FEET DESERVE <br /> THE BEST</h1>
-        <p>
+        <p className="w-1/2 mt-3 text-justify text-[1vw]">
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
         </p>
