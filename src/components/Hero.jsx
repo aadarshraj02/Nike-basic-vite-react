@@ -11,9 +11,9 @@ function Hero() {
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
         </p>
-        <div className="mt-3 flex items-center justify-around">
-          <button>Shop Now</button>
-          <button>Category</button>
+        <div className="mt-3 flex items-center gap-10">
+          <button className="bg-red-600 text-white px-5 py-2 rounded-md">Shop Now</button>
+          <button className="bg-red-600 text-white px-5 py-2 rounded-md">Category</button>
         </div>
         <div>
           <p>Also Available on</p>
