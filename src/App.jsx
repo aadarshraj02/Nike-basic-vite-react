@@ -13,6 +13,7 @@ function App() {
           <li>About</li>
           <li>Contact</li>
         </ul>
+        <button>Login</button>
       </nav>
     </div>
   );
