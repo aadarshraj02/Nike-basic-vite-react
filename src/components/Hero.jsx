@@ -9,6 +9,10 @@ function Hero() {
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
           YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
         </p>
+        <div className="buttons">
+          <button>Shop Now</button>
+          <button>Category</button>
+        </div>
       </div>
       <div className="image"></div>
     </div>
