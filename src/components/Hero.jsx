@@ -13,6 +13,13 @@ function Hero() {
           <button>Shop Now</button>
           <button>Category</button>
         </div>
+        <div>
+          <p>Also Available on</p>
+        </div>
+        <div>
+          <img src="../../public/amazon.png" alt="" />
+          <img src="../../public/flipkart.png" alt="" />
+        </div>
       </div>
       <div className="image"></div>
     </div>
