@@ -7,6 +7,12 @@ function App() {
         <div className="logo">
           <img src="../public/brand_logo.png" alt="" />
         </div>
+        <ul>
+          <li>Menu</li>
+          <li>Location</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
       </nav>
     </div>
   );
