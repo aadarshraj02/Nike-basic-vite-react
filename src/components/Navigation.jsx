@@ -3,11 +3,11 @@ import React from "react";
 function Navigation() {
   return (
     <div>
-      <nav className="flex items-center justify-between max-h-[72px] max-w-[1280px] mx-auto ">
+      <nav className="flex items-center justify-between sm:max-h-[72px] max-w-[1280px] mx-auto p-5 h-[50px]">
         <div className="logo">
-          <img src="../public/brand_logo.png" alt="" />
+          <img className="h-full w-full" src="brand_logo.png" alt="" />
         </div>
-        <ul className="flex gap-10 items-center">
+        <ul className=" hidden sm:flex gap-10 items-center">
           <li>Menu</li>
           <li>Location</li>
           <li>About</li>
