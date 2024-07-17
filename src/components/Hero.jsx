@@ -16,9 +16,9 @@ function Hero() {
           <button className="bg-red-600 text-white px-5 py-2 rounded-md">Category</button>
         </div>
         <div>
-          <p>Also Available on</p>
+          <p className="my-3">Also Available on</p>
         </div>
-        <div>
+        <div className="flex items-center gap-10">
           <img src="../../public/amazon.png" alt="" />
           <img src="../../public/flipkart.png" alt="" />
         </div>
