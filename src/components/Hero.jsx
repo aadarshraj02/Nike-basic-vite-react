@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div>
+    <div className="flex mx-auto max-w-[1280px]">
       <div className="text">
         <h1>YOUR FEET DESERVE THE BEST</h1>
         <p>
